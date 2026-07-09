@@ -1,25 +1,25 @@
-// let identitas = {
-//     nama : 'Ade Wardiana',
-//     umur : 17,
-//     pekerjaan : 'Back-End Developer'
-// }
+let identitas = {
+    nama : 'Ade Wardiana',
+    umur : 17,
+    pekerjaan : 'Back-End Developer'
+}
 
-// console.log(`Hallo, Nama Saya ${identitas.nama}, Pekerjaan Saya ${identitas.pekerjaan}`)
-// identitas.alamat = 'Bandung';
-// console.log(`Alamat ${identitas.alamat}`)
+console.log(`Hallo, Nama Saya ${identitas.nama}, Pekerjaan Saya ${identitas.pekerjaan}`)
+identitas.alamat = 'Bandung';
+console.log(`Alamat ${identitas.alamat}`)
 
 
-// let product = {
-//     name : 'Tas',
-//     harga : 50000,
-//     stok : 10,
-// }
+let product = {
+    name : 'Tas',
+    harga : 50000,
+    stok : 10,
+}
 
-// if (product.stok > 0) {
-//     console.log(`Silahkan Beli ${product.name}, Seharga ${product.harga}`);
-// } else {
-//     console.log(`Product ${product.name} Sedang kosong`);
-// }
+if (product.stok > 0) {
+    console.log(`Silahkan Beli ${product.name}, Seharga ${product.harga}`);
+} else {
+    console.log(`Product ${product.name} Sedang kosong`);
+}
 
 
 
